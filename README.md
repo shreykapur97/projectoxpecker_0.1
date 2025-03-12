@@ -1,4 +1,4 @@
-# projectoxpecker_0.1
+# ProjectOxpecker_0.1
 This repository contains the code and resources for OXPECKER, a predictive environment simulation tool for Rhino 8, Grasshopper &amp; Ladybug, focused on Direct Sun Hours &amp; Incident Radiation. 
 
 Note: Oxpecker only works on Rhino 8
@@ -6,7 +6,7 @@ Note: Oxpecker only works on Rhino 8
 # Download Oxpecker
 Install the required plugins & Packages First, Then Download & Extract to "User Object Folder
 **Oxpecker Download**: 
-https://tinyurl.com/oxpecker01
+https://www.food4rhino.com/en/app/oxpecker
 
 Note: Install these in the specific order
 **Grasshopper Dependencies (Plugins)**:
